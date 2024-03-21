@@ -4,9 +4,10 @@
 
 #### Multimodal Learning (멀티모달 학습)
 * CLIP : Learning Transferable Visual Models From Natural Language Supervision (ICML 2021)
-    * [Original Paper Link](https://arxiv.org/abs/2103.00020)       
+    * [Original Paper Link](https://arxiv.org/abs/2103.00020)
+       
 #### Computer Vision (컴퓨터 비전)
-* A Simple Framework for Contrastive Learning of Visual Representations (ICML 2020)
+* SimCLR: A Simple Framework for Contrastive Learning of Visual Representations (ICML 2020)
     * [Original Paper Link](https://arxiv.org/abs/2002.05709)
 
 #### Natural Language Processing (자연어 처리)
@@ -14,3 +15,7 @@
     * [Original Paper Link](https://arxiv.org/abs/1706.03762)
 * Mamba: Linear-Time Sequence Modeling with Selective State Spaces (2023)
     * [Original Paper Link](https://arxiv.org/abs/2312.00752)   
+
+#### Large Language Model (대형 언어 모델, LLM)
+* The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits (2024)
+    * [Original Paper Link](https://arxiv.org/abs/2103.00020)
