@@ -9,7 +9,9 @@
 #### Computer Vision (컴퓨터 비전)
 * SimCLR: A Simple Framework for Contrastive Learning of Visual Representations (ICML 2020)
     * [Original Paper Link](https://arxiv.org/abs/2002.05709)
-
+* Denoising Diffusion Probabilistic Models (NIPS 2020)
+    * [Original Paper Link](https://arxiv.org/abs/2006.11239)
+      
 #### Natural Language Processing (자연어 처리)
 * Attention is All You Need (NIPS 2017)
     * [Original Paper Link](https://arxiv.org/abs/1706.03762)
